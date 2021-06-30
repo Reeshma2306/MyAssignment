@@ -6,6 +6,7 @@ public class A{
     else
     {
 	System.out.println("not in limit");
+	System.out.println("no.is less than 18");
      } 
 	 
   }
